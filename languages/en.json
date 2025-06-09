@@ -1,3 +1,27 @@
 {
-    "MODULE.hello": "hello"
+    "enhancedcombathud-exaltedessence" : {
+        "Titles": {
+            "Movement": "Movement",
+            "Other": "Other",
+            "Magic": "Magic",
+            "Spells": "Spells",
+            "Charms": "Charms",
+            "OpposedCharms": "Opposed Charms"
+        },
+        "Descriptions" : {
+            "FullDefense": "Increase Defense by your equipped weapons defense rating.",
+            "Aim": "Make an Attack with +3 dice on accuracy.  Cannot use Movement action on the same turn",
+            "Rush": "Move 1 range band then make an attack with +3 dice on accuracy.",
+            "Influence": "Social Influence",
+            "Miscellaneous": "Catch-all for a variety of possible actions.",
+            "DefendOther": "Increase an allies defense by your own + Weapon defense bonus<br> If the attacker makes a successful decisive attack against the ally you take the attacks effects.",
+            "BuildPower": "Make an action to build power.",
+            "FocusWill": "Gain will required to shape spells.",
+            "PowerExchange": "Transfer power to an ally.  Takes a simple action",
+            "Sprint": "Simple Action, take 2 movement actions.",
+            "RiseFromProne": "Rise from prone as a reflexive action, simple action if opposed by an enemy.",
+            "CatchBreath": "Take a scene to rest, restores half motes rounded up.",
+            "FullRest": "Full Restore Health and Motes"
+        }
+    }
 }
